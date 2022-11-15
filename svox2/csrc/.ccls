@@ -1,4 +1,4 @@
 %compile_commands.json
 %cu -x cuda
-%cu --cuda-gpu-arch=sm_61
-%cu --cuda-path=/usr/local/cuda-11.2
+%cu --cuda-gpu-arch=sm_86
+%cu --cuda-path=/usr/local/cuda-11.3
